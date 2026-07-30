@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+*.log
+*.json
+secretspy_report_*.json
+.DS_Store
+*.swp
+*.swo
+*.tmp
